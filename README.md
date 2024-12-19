@@ -36,5 +36,5 @@ Here are some of my key projects:
 - **[View Project](https://github.com/Chivans31/Car-Price-Prediction)**
 
 ## Contact 📞:
-- **Email:** [Chinenyevans@gmail.com]
-- **LinkedIn:** [https://linkedin.com/in/chinenye-omejieke-data-science]
+- **Email:** [(Chinenyevans@gmail.com)]
+- **LinkedIn:** [(https://linkedin.com/in/chinenye-omejieke-data-science)]
