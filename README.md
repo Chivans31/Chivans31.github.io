@@ -28,12 +28,12 @@ Here are some of my key projects:
 ### 2. Food Image Classification Using Deep Learning Techniques
 - **Description**:  Evaluates and compares the performnace of the four deep learning architectures— Simple Convolutional Neural Networks (CNN), Residual Networks (ResNet 18), a tuned Convolutional Neural Network named MyTuned CNN, and Visual Geometry Group (VGG 16) networks
 - **Technologies**: Numpy, Matplotlib, PIL, Torch. Torchvision
-- [Project 2:Food Image Classification](https://github.com/Chivans31/Image-Classification-using-Deep-Learning)
+- **[View Project](https://github.com/Chivans31/Image-Classification-using-Deep-Learning)**
   
 ### 3. Car Price Prediction Using Machine Learning Models
 - - **Description**: To develop a model to predict the selling price of cars based on a dataset provided by AutoTrader.
 - **Technologies**: Pandas, Numpy, Seaborn, Matplotlib, TargetEncoder
-- [Project 3: Predicting Customer Behavior](https://github.com/Chivans31/Car-Price-Prediction)
+- **[View Project](https://github.com/Chivans31/Car-Price-Prediction)**
 
 ## Contact
 - **Email:** Chinenyevans@gmail.com
