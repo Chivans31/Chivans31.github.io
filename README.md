@@ -37,4 +37,4 @@ Here are some of my key projects:
 
 ## Contact 📞:
 - **Email:** [(Chinenyevans@gmail.com)]
-- **LinkedIn:** [(https://linkedin.com/in/chinenye-omejieke-data-science)]
+- **[LinkedIn](https://linkedin.com/in/chinenye-omejieke-data-science)**
