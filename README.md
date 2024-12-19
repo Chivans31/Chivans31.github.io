@@ -31,10 +31,10 @@ Here are some of my key projects:
 - **[View Project](https://github.com/Chivans31/Image-Classification-using-Deep-Learning)**
   
 ### 3. Car Price Prediction Using Machine Learning Models
-- - **Description**: To develop a model to predict the selling price of cars based on a dataset provided by AutoTrader.
+- **Description**: To develop a model to predict the selling price of cars based on a dataset provided by AutoTrader.
 - **Technologies**: Pandas, Numpy, Seaborn, Matplotlib, TargetEncoder
 - **[View Project](https://github.com/Chivans31/Car-Price-Prediction)**
 
 ## Contact
-- **Email:** Chinenyevans@gmail.com
-- **LinkedIn:** [(https://linkedin.com/in/chinenye-omejieke-data-science]
+- **Email:** [Chinenyevans@gmail.com]
+- **LinkedIn:** (https://linkedin.com/in/chinenye-omejieke-data-science)
