@@ -1,8 +1,8 @@
 
-# Welcome to My Portfolio!
+# Welcome to My Portfolio! 😃:
 
 ## About Me
-Hi! I'm **Chinenye**, a passionate data scientist with expertise in 
+Hi!👋 I'm **Chinenye**, a passionate data scientist with expertise in 
 natural language processing (NLP) and machine learning. I enjoy solving 
 real-world problems using AI and have worked on projects like:
 
@@ -10,14 +10,14 @@ real-world problems using AI and have worked on projects like:
 - **Food Image Classification Using Deep Learning Techniques**
 - **Car Price Prediction Using Machine Learning Models**
 
-### Experience
+### Experience 🧠:
 - **Machine Learning Engineer**, Afiari Inc., where I built and deployed predictive models for e-commerce platforms.
 - **Data Scientist**, Huawei, where I developed data-driven insights for strategic decisions.
 
 Currently, I’m exploring the applications of **Large Language Models (LLMs)** and **multimodal learning**.
 
 
-## Projects
+## Projects 👷:
 Here are some of my key projects:
 
 ### 1. Sentiment Analysis for Football Player Valuation
@@ -35,6 +35,6 @@ Here are some of my key projects:
 - **Technologies**: Pandas, Numpy, Seaborn, Matplotlib, TargetEncoder
 - **[View Project](https://github.com/Chivans31/Car-Price-Prediction)**
 
-## Contact
+## Contact 📞:
 - **Email:** [Chinenyevans@gmail.com]
-- **LinkedIn:** (https://linkedin.com/in/chinenye-omejieke-data-science)
+- **LinkedIn:** [https://linkedin.com/in/chinenye-omejieke-data-science]
