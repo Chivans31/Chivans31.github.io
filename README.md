@@ -2,7 +2,7 @@
 # Welcome to My Portfolio! 😃:
 
 ## About Me
-Hi!👋 I'm **Chinenye**, a Data Scientist and Machine Learning Engineer focused on building end-to-end AI solutions that bridge the gap between structured data,unstructured data and actionable business intelligence. I specialize in **Data Analysis, Time Series Forecasting, Natural Language Processing (NLP), Computer Vision, and Predictive Modeling**.
+Hi!👋 I'm **Chinenye**, a Data Scientist, Machine Learning Engineer and a Data Engineer focused on building end-to-end AI solutions that bridge the gap between structured data, unstructured data and actionable business intelligence. I specialize in **Data Analysis, Data Engineering, Time Series Forecasting, Natural Language Processing (NLP), Computer Vision, and Predictive Modeling**.
 
 Currently, I’m exploring:
 
@@ -14,7 +14,7 @@ Currently, I’m exploring:
 
 ### Experience 🧠
 - **Data Scientist/ML Engineer**, Afiari Inc. - Built and deployed predictive models for e-commerce platforms, optimizing recommendation engines and user conversion paths.
-- **Data Scientist**, Typewind Ltd. - Developed data-driven frameworks to extract strategic insights from high-velocity datasets.
+- **Data Engineer/Data Scientist**, Typewind Ltd. - Implemented CI/CD pipelines for data workflows, improving deployment consistency and reducing manual errors. Developed data-driven frameworks to extract strategic insights from high-velocity datasets.
 
 ## Projects 👷
 
