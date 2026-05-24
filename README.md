@@ -2,35 +2,41 @@
 # Welcome to My Portfolio! 😃:
 
 ## About Me
-Hi!👋 I'm **Chinenye**, a Data Scientist, Machine Learning Engineer and a Data Engineer focused on building end-to-end AI solutions that bridge the gap between structured data, unstructured data and actionable business intelligence. I specialize in **Data Analysis, Data Engineering, Time Series Forecasting, Natural Language Processing (NLP), Computer Vision, and Predictive Modeling**.
+Hi!👋 I'm **Chinenye**, a Data Scientist, AI/ML Engineer and a Data Engineer focused on building end-to-end AI solutions that bridge the gap between structured data, unstructured data and actionable business intelligence. I specialize in **Data Analysis, Data Engineering, Time Series Forecasting, Natural Language Processing (NLP), Computer Vision, and Predictive Modeling**.
 
 Currently, I’m exploring:
 
-- **Large Language Models (LLMs)** & RAG Architectures.
+- **Large Language Models (LLMs)** & **RAG Architectures**.
 
 - **Multimodal Learning** (Combining text, image, and tabular data).
 
 - **Time Series Forecasting** for market volatility and demand prediction.
 
 ### Experience 🧠
-- **Data Scientist/ML Engineer**, Afiari Inc. - Built and deployed predictive models for e-commerce platforms, optimizing recommendation engines and user conversion paths.
-- **Data Engineer/Data Scientist**, Typewind Ltd. - Implemented CI/CD pipelines for data workflows, improving deployment consistency and reducing manual errors. Developed data-driven frameworks to extract strategic insights from high-velocity datasets.
+- **Data Scientist/AI Engineer**, Afiari Inc. - Built and deployed predictive models for e-commerce platforms, optimizing recommendation engines and user conversion paths.
+- **ML Engineer/Data Engineer**, Typewind Ltd. - Implemented CI/CD pipelines for data workflows, improving deployment consistency and reducing manual errors. Developed data-driven frameworks to extract strategic insights from high-velocity datasets.
 
 ## Projects 👷
 
-### 1. Football Scout AI: Undervalued Player Detection ⚽
+### 1. Enterprise Policy Assistant
+- **Description**: An AI-powered Retrieval-Augmented Generation (RAG) application that enables employees to ask questions about company policies and receive accurate answers grounded in official company documentation.
+
+The system combines FastAPI, React, OpenAI embeddings, and FAISS vector search to retrieve relevant policy information and generate contextual responses based only on the provided documents.
+- **Tech Stack**: Frontend (React, Vite, Axios, CSS), Backend (FastAPI, LangChain, OpenAI API, FAISS, Python).
+- **Live Demo**: **[Frontend](https://enterprise-policy-assistant.vercel.app/)** | **[Backend](https://enterprise-policy-assistant-1.onrender.com/docs#/default/ask_ask_post)** | **[View Repo](https://github.com/Chivans31/enterprise-policy-assistant)**
+
+### 2. Football Scout AI: Undervalued Player Detection ⚽
 
 - **Description**: A deployed end-to-end system that identifies market mispricing in football. It uses a hybrid model (XGBoost + TabNet) and BERT-based sentiment analysis to calculate "Fair Market Value" vs. actual cost. Includes a live dashboard and automated PDF reporting.
 - **Technologies**: Python, PyTorch (TabNet), XGBoost, BERT, SHAP, Streamlit, FPDF.
 - **[Live App](https://football-undervaluation-app-gpvmypxbxkk5mbt2yq4ha9.streamlit.app/)** | **[View Repo](https://github.com/Chivans31/football-undervaluation-app?tab=readme-ov-file)**
 
-
-### 2. Sentiment Analysis for Football Player Valuation
+### 3. Sentiment Analysis for Football Player Valuation
 - **Description**: Identifying undervalued football players in the transfer market by using Natural Language Processing (NLP) techniques on football-related news articles
 - **Technologies**: Matplotlib, Seaborn, Numpy, Pandas, NLTK, SpaCy, BERT
 - **[View Project](https://github.com/Chivans31/football-player-analysis)**
   
-### 3. Food Image Classification: Deep Learning Benchmark 🍕
+### 4. Food Image Classification: Deep Learning Benchmark 🍕
 - **Description**: A comparative study of four neural architectures—Simple CNN, ResNet-18, VGG-16, and a custom-tuned CNN—to evaluate performance trade-offs in multi-class image classification.
 - **Technologies**: PyTorch, Torchvision, PIL, NumPy, Matplotlib.
 - **[View Project](https://github.com/Chivans31/Image-Classification-using-Deep-Learning)**
