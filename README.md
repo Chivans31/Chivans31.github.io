@@ -13,7 +13,7 @@ Currently, I’m exploring:
 - **Time Series Forecasting** for market volatility and demand prediction.
 
 ### Experience 🧠
-- **Data Scientist/AI Engineer**, Afiari Inc. - Built and deployed predictive models for e-commerce platforms, optimizing recommendation engines and user conversion paths.
+- **Data Scientist/AI Engineer**, Afiari Technologies Limited - Built and deployed predictive models for e-commerce platforms, optimizing recommendation engines and user conversion paths.
 - **ML Engineer/Data Engineer**, Typewind Ltd. - Implemented CI/CD pipelines for data workflows, improving deployment consistency and reducing manual errors. Developed data-driven frameworks to extract strategic insights from high-velocity datasets.
 
 ## Projects 👷
