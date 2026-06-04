@@ -22,7 +22,7 @@ Currently, I’m exploring:
 - **Description**: A production-style healthcare analytics platform that predicts paediatric patient readmission risk using machine learning and delivers actionable insights through an interactive web application, REST API, explainable AI dashboards, and operational intelligence reporting.
 
 This project was designed to demonstrate the end-to-end skills expected of a Senior Data Scientist within NHS and healthcare environments, including advanced analytics, machine learning, MLOps, cloud deployment, responsible AI, and stakeholder-focused reporting.
-- **Tech Stack**: Programming(Python, Data Science, Pandas, NumPy, Scikit-Learn, XGBoost), Explainable AI (SHAP), MLOps (MLflow, Docker, GitHub Actions), Backend (FastAPI, Uvicorn), Frontend (Streamlit, Cloud, Render, Streamlit Cloud), Reporting (Power BI), Data Engineering (PySpark, Databricks-ready architecture).
+- **Tech Stack**: Programming (Python), Data Science (Pandas, NumPy, Scikit-Learn, XGBoost), Explainable AI (SHAP), MLOps (MLflow, Docker, GitHub Actions), Backend (FastAPI, Uvicorn), Frontend (Streamlit, Cloud, Render, Streamlit Cloud), Reporting (Power BI), Data Engineering (PySpark, Databricks-ready architecture).
 - **Live Demo**: **[Frontend](https://jkgrjzsmmjwxj8u7hqpbze.streamlit.app/)** | **[Backend](https://nhs-paediatric-risk-intelligence-platform.onrender.com/docs)** | **[View Repo](https://github.com/Chivans31/nhs-paediatric-risk-intelligence-platform-)**
 
 ### 2. Enterprise Policy Assistant
